@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="fastjson-1.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cy_chat/web/WEB-INF/lib/fastjson-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cy_chat/web/WEB-INF/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cy_chat/web/WEB-INF/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
